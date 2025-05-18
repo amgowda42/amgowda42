@@ -3,11 +3,11 @@
 ## 🚀 About Me
 I'm a passionate Full Stack Developer specializing in **[React, Node.js, etc.]**
 
-- 🔭 I’m currently working on **[Hey Food]**
-- 🌱 I’m currently learning **[Technology You're Learning]**
-- 💬 Ask me about **[Frontend/Backend, APIs, etc.]**
+- 🔭 I’m currently working on **Hey Food**
+- 🌱 I’m currently learning **Node js**
+- 💬 Ask me about **Full Stach Development**
 - 📫 How to reach me: **[Your Email]**, [LinkedIn](https://www.linkedin.com/in/your-link/)
-- ⚡ Fun fact: **[Something funny or quirky]**
+- ⚡ Fun fact: **Every Where I Search Green Trees 😆**
 
 ---
 
@@ -23,18 +23,18 @@ I'm a passionate Full Stack Developer specializing in **[React, Node.js, etc.]**
 ---
 
 ## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgowda42&show_icons=true&theme=radical)
 
 ## 📈 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amgowda42&theme=radical)](https://git.io/streak-stats)
 
 ## 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgowda42&layout=compact&theme=radical)
 
 ---
 
 ## 🗓️ Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amgowda42&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
