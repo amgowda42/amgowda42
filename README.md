@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate Full Stack Developer specializing in **[React, Node.js, etc.]**
 
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently working on **[Hey Food]**
 - 🌱 I’m currently learning **[Technology You're Learning]**
 - 💬 Ask me about **[Frontend/Backend, APIs, etc.]**
 - 📫 How to reach me: **[Your Email]**, [LinkedIn](https://www.linkedin.com/in/your-link/)
