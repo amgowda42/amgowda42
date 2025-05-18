@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Annappa Gowda
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer specializing in **[React, Node.js, etc.]**
+I'm a passionate Full Stack Developer specializing in **Front End Development**
 
 - 🔭 I’m currently working on **Hey Food**
 - 🌱 I’m currently learning **Node js**
