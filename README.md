@@ -30,7 +30,7 @@ I'm a passionate Full Stack Developer specializing in **Front End Development**
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgowda42&show_icons=true&theme=radical)
 
 ## 📈 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?amgowda42)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amgowda42)](https://git.io/streak-stats)
 
 ## 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgowda42&layout=compact&theme=radical)
