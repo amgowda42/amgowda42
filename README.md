@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate Full Stack Developer specializing in **Front End Development**
 
-- 🔭 I’m currently working on **Hey Food**
+- 🔭 I’m currently working on **Goal Setter**
 - 🌱 I’m currently learning **Node js**
 - 💬 Ask me about **Front End Development**
 - 📫 How to reach me: **annappag2020@gmail.com**, [LinkedIn](https://www.linkedin.com/in/annappa-gowda/)
