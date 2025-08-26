@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Annappa Gowda
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer specializing in **Front End Development**
+I'm a passionate Full Stack Developer specializing in **Front End Development.**
 
-- 🔭 I’m currently working on **Goal Setter**
-- 🌱 I’m currently learning **Node js**
-- 💬 Ask me about **Front End Development**
-- 📫 How to reach me: **annappag2020@gmail.com**, [LinkedIn](https://www.linkedin.com/in/annappa-gowda/)
+- 🔭 I’m currently working on **Goal Setter.**
+- 🌱 I’m currently learning **Node js.**
+- 💬 Ask me about **Front End Development.**
+- 📫 How to reach me: **annappag2020@gmail.com.**, [LinkedIn](https://www.linkedin.com/in/annappa-gowda/)
 - ⚡ Fun fact: **Every Where I Search Green Trees 😆**
 
 ---
