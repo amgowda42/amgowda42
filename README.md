@@ -12,6 +12,7 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 ---
 
 ## 🛠️ Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -27,16 +28,19 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 
 ---
 
+## 📊 GitHub Overview
 
-## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=amgowda42&show_icons=true&theme=radical)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgowda42&theme=radical)
 
-## 📈 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amgowda42)](https://git.io/streak-stats)
+---
 
 ## 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgowda42&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amgowda42&layout=compact&theme=radical)
+
+---
 
 ## 🔗 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/annappa-gowda/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:annappag2020l@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:annappag2020@gmail.com)
