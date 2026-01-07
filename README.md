@@ -43,11 +43,7 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 
 ## 🧠 Top Languages Used
 
-> ⚠️ Shows **only public, non-fork repositories**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgowda42&layout=compact&langs_count=8&hide_border=true&theme=radical&exclude_repo=github-readme-stats" />
-</p>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amgowda42&layout=compact&langs_count=10&theme=radical&hide_border=true&hide_progress=true" alt="Top Languages" /> </p>
 
 ---
 
