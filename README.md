@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 
 ---
 
-## 🌗 Theme Toggle (Dark / Light)
+## 🌗 Theme Toggle
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Dark+Mode+🌙;Light+Mode+☀️;Full+Stack+Developer" />
@@ -25,7 +25,7 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 
 ---
 
-## 🛠️ Tech Stack (Animated)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,vite,tailwind,git,github&perline=6" />
