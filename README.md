@@ -10,7 +10,7 @@
 I'm a passionate Full Stack Developer specializing in **Front End Development.**
 
 - 🔭 I’m currently working on **Attendio.**
-- 🌱 I’m currently learning **Node js.**
+- 🌱 I’m currently learning **Robust Back-end System Design**
 - 💬 Ask me about **Front End Development.**
 - 📫 How to reach me: **annappag2020@gmail.com**, [LinkedIn](https://www.linkedin.com/in/annappa-gowda/)
 - ⚡ Fun fact: **Every Where I Search Green Trees**
@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,vite,tailwind,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,docker,fastapi,vite,tailwind,git,github&perline=6" />
 </p>
 
 ---
