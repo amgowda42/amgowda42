@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,docker,fastapi,vite,tailwind,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,docker,fastapi,redis,vite,tailwind,git,github&perline=6" />
 </p>
 
 ---
