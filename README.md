@@ -9,9 +9,8 @@
 ## 🚀 About Me
 I'm a passionate Full Stack Developer specializing in **Front End Development.**
 
-- 🔭 I’m currently working on **Attendio.**
 - 🌱 I’m currently learning **Robust Back-end System Design.**
-- 💬 Ask me about **Front End Development.**
+- 💬 Ask me about **Full Stack Development.**
 - 📫 How to reach me: **annappag2020@gmail.com**, [LinkedIn](https://www.linkedin.com/in/annappa-gowda/)
 - ⚡ Fun fact: **Every Where I Search Green Trees.**
 
