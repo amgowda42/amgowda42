@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 
 - 🌱 I’m currently learning **Robust Back-end System Design.**
 - 💬 Ask me about **Full Stack Development.**
-- 📫 How to reach me: **annappag2020@gmail.com**, [LinkedIn](https://www.linkedin.com/in/annappa-gowda/)
+- 📫 How to reach me: **annappag2020@gmail.com**, [LinkedIn](https://www.linkedin.com/in/annappa-gowda/), [Portfolio](https://annappagowda.com)
 - ⚡ Fun fact: **Every Where I Search Green Trees.**
 
 ---
@@ -47,8 +47,10 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
 ---
 
 ## 🔗 Let's Connect
-
 <p align="center">
+  <a href="https://annappagowda.com">
+    <img src="https://img.shields.io/badge/Portfolio-annappagowda.com-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/annappa-gowda/">
     <img src="https://img.shields.io/badge/LinkedIn-Annappa%20Gowda-blue?style=flat-square&logo=linkedin" />
   </a>
