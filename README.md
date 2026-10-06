@@ -38,14 +38,6 @@ I'm a passionate Full Stack Developer specializing in **Front End Development.**
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amgowda42&theme=radical" />
 </p>
 
----
-
-## 🧠 Top Languages Used
-
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amgowda42&layout=compact&langs_count=10&theme=radical&hide_border=true&hide_progress=true" alt="Top Languages" /> </p>
-
----
-
 ## 🔗 Let's Connect
 <p align="center">
   <a href="https://annappagowda.com">
