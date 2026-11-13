@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer specializing in **Front End Development.**
+I'm a passionate Full Stack Developer.
 
 - 🌱 I’m currently learning **Robust Back-end System Design.**
 - 💬 Ask me about **Full Stack Development.**
